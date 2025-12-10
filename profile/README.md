@@ -18,8 +18,6 @@ Privacy-first, end-to-end encrypted messenger built on the MLS (Messaging Layer 
 
 🚧 Currently in Phase 1 (MVP) - Web-App development
 
-See our [Product Strategy](PRODUCT_STRATEGY.md) for the full roadmap.
-
 ## Contributing
 
 We're currently in private beta. Contributions will be welcome once we open-source parts of the codebase.
