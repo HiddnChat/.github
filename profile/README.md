@@ -2,10 +2,10 @@
 
 Privacy-first, end-to-end encrypted messenger built on the MLS (Messaging Layer Security) Protocol.
 
-🔒 **End-to-End Encrypted** - Military-grade encryption using MLS Protocol
-🇩🇪 **Made in Germany** - DSGVO-compliant, servers hosted in Germany
-🚫 **No Tracking** - Zero metadata collection, no analytics
-💰 **Freemium Model** - Free forever, Premium for power users (4.99€/month)
+🔒 **End-to-End Encrypted** - Military-grade encryption using MLS Protocol  
+🇩🇪 **Made in Germany** - DSGVO-compliant, servers hosted in Germany  
+🚫 **No Tracking** - Zero metadata collection, no analytics  
+💰 **Freemium Model** - Free forever, Premium for power users (4.99€/month)  
 🌐 **Cross-Platform** - Web, Android, iOS, Linux, Windows, macOS
 
 ## Repositories
